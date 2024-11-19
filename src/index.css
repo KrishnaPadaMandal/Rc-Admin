@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ck.ck-editor__editable_inline > :last-child {
+  color: black;
+}
+
